@@ -1,5 +1,5 @@
 ##ignore this file##
-application-local.yml
+application.yml
 /target/
 /.idea/
 /.settings/
