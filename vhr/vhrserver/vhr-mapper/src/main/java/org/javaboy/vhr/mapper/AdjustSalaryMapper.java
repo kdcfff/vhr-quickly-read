@@ -1,6 +1,7 @@
 package org.javaboy.vhr.mapper;
 
 import org.javaboy.vhr.model.AdjustSalary;
+import org.javaboy.vhr.model.AdjustSalary;
 
 public interface AdjustSalaryMapper {
     int deleteByPrimaryKey(Integer id);
